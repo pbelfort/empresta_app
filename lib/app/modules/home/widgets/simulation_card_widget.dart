@@ -24,7 +24,7 @@ class SimulationCard extends StatelessWidget {
             return Row(
               children: [
                 Padding(
-                  padding: const EdgeInsets.all(12.0),
+                  padding: const EdgeInsets.all(4.0),
                   child: CircleAvatar(
                     backgroundColor: AppColors.primaryColor,
                     backgroundImage:
