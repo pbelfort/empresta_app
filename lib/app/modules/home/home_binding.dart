@@ -6,7 +6,7 @@ import '../../data/provider/remote/covenant/covenant_provider.dart';
 import '../../data/provider/remote/covenant/i_covenant_provider.dart';
 import '../../data/provider/remote/institution/i_institution_provider.dart';
 import '../../data/provider/remote/institution/institution_provider.dart';
-import '../../data/provider/remote/simulation/simlation_provider.dart';
+import '../../data/provider/remote/simulation/simulation_provider.dart';
 import '../../data/repository/remote/covenant/covenant_repository.dart';
 import '../../data/repository/remote/institution/i_institution_repository.dart';
 import '../../data/repository/remote/institution/institution_repository.dart';
